@@ -61,6 +61,7 @@ a {
 .main-title {
   color: #fff;
   font-size: 56px;
+  text-align: center;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.07rem;
@@ -102,6 +103,8 @@ a {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
   line-height: 1.11;
   letter-spacing: 0.045rem;
 }
@@ -126,6 +129,8 @@ a {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
   line-height: 1.11;
   letter-spacing: 0.045rem;
 }
